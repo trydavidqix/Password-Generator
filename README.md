@@ -38,4 +38,7 @@ Feel free to fork this repository and contribute by creating pull requests. Sugg
 
 ---
 
-Made with ❤️ by [David William](https://www.linkedin.com/in/trydavid/) | [GitHub](https://github.com/trydaviqix)
+
+
+<a href="https://www.linkedin.com/in/trydavidqix/" target="_blank">David William - Linkedin</a>
+
