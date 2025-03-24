@@ -41,4 +41,4 @@ Feel free to fork this repository and contribute by creating pull requests. Sugg
 
 
 
-
+<a href="https://www.linkedin.com/in/trydavidqix/" target="_blank">David William - Linkedin</a>
